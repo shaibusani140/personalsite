@@ -1,0 +1,33 @@
+.body-tag{
+    background-color: rgba(0, 255, 255, 0.11);
+}
+.image-tag{
+    margin: 10px;
+    border-radius: 50px;
+
+}
+
+.body-tag{
+    background-color: rgba(127, 255, 212, 0.137);
+    font-weight: bold;
+}
+
+h1{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+}
+h1{
+    background-color:white;
+    text-align: center;
+    padding: 20px;
+    text-transform: uppercase;
+    text-decoration: black;
+}
+.table-tag{
+    font-weight: bold;
+}
